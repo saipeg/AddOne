@@ -14,5 +14,5 @@ auit.log
 */classpth
 *bin/*
 bin/*
-.out
+*.out
 /builds

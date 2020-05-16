@@ -1,6 +1,10 @@
-// Autor Andrey S
+package com.andrey;
 
-// data 16.05.2020
+/**
+ * AutHor Andrey S
+ * <p>
+ * data 16.05.2020
+ */
 
 public class AddOne {
     public static void main(String[] args) {
